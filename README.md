@@ -54,14 +54,27 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
+    <div align= "center">  </div>  
+        <a href="https://www.linkedin.com/in/%ED%9D%AC%EC%B0%BD-%EC%A0%95-392504b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="flashwade03/" height="32" width="32" />
+        <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <div align= "center"> 
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flashwade03&show_icons=true&bg_color=00000000)
-        </div> 
+        <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=flashwade03&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=flashwade03&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=flashwade03&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flashwade03&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
 </div>
     
     
